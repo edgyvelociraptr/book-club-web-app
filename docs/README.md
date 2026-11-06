@@ -1,4 +1,4 @@
-﻿# Little Book App: User Stories
+﻿# Little Book App
 
 **Roles**
 - **Member:** a regular book club participant with an associated acount. 
@@ -89,3 +89,15 @@ As a **user** I want to **access the admin actions that pertain to voting & prop
 **Mitigation Criteria**
 - Admin-only operations and buttons are hidden from non-admins.
 - Non-admin accounts will receieve an error when trying to access admin controls
+
+## Architecture Models
+
+### System Context Diagram
+<img width="715" height="413" alt="systemcontext drawio (2)" src="https://github.com/user-attachments/assets/59713368-c68b-4245-98dc-3dfe6ef5f2a8" />
+
+### Containers
+<img width="812" height="564" alt="container drawio" src="https://github.com/user-attachments/assets/58fec2cf-5947-4158-bd3f-16a497e0194b" />
+
+### Components
+
+
