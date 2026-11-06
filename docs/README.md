@@ -12,7 +12,7 @@ As a **user**, I want to **be able to RSVP to meetings** so that **the host will
 
 As a **user**, I want to **record how much of the book I have read** so I can **only see discussion posts/conversations that won't spoil the book**.
 
-##Admin Stories
+## Admin Stories
 
 As a **admin**, I want to **close voting and declare a winning pick** so that **the club can get started on/pickup the next read**.
 
