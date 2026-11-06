@@ -99,5 +99,6 @@ As a **user** I want to **access the admin actions that pertain to voting & prop
 <img width="812" height="564" alt="container drawio" src="https://github.com/user-attachments/assets/58fec2cf-5947-4158-bd3f-16a497e0194b" />
 
 ### Components
+<img width="1179" height="904" alt="componentdiagram drawio" src="https://github.com/user-attachments/assets/9af9eaec-1069-4a37-9a80-4cae5260aa3f" />
 
 
